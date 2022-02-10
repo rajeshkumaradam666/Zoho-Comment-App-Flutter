@@ -3,7 +3,7 @@
 Zoho Comments Android application.
 
 ## Getting Started
- * using Android Studio and Flutter Framework and Dart Language and Sqlite (Local Storage) Database.
+ * It is a Android Mobile Application, using Android Studio and Flutter Framework and Dart Language and Sqlite (Local Storage) Database.
  * I am using Sqlite Database it is local storage,the data stored in your phone.
  * The first page, it is a sign in page you are already register your mobile number you can easily sign in and post your comments directly.
  * The Second page, it is sign up page you can register your email id and password and secret.
