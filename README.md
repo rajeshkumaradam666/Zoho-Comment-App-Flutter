@@ -1,6 +1,8 @@
 # zoho_project
 
 Zoho Comments Android application.
+## How to Use
+ * Download this Project and open in Android Studio and Flutter Frame work, run this project in emulator or getting apk(flutter build apk) then install it in your mobile phone.
 
 ## Getting Started
  * It is a Android Mobile Application, using Android Studio and Flutter Framework and Dart Language and Sqlite (Local Storage) Database.
